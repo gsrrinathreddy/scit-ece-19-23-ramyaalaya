@@ -5,7 +5,7 @@ import Aboutus from './components/Aboutus';
 import Certifications from './components/Certifications';
 import Experience from './components/Experience';
 import Hobbies from './components/Hobbies';
-import Projects from "./components/Projects";
+import Projects from './components/Projects';
 import Qualifications from './components/Qualifications';
 import Skills from './components/Skills';
 function App() {
